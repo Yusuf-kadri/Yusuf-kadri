@@ -16,10 +16,8 @@ I like clean data and a clear answer. This GitHub holds the analysis I do along 
 
 | Project | What it asks | Tools |
 |---|---|---|
-| [UK Gender Pay Gap analysis](https://github.com/YOUR-USERNAME/uk-gender-pay-gap-analysis) | How big is the gender pay gap across UK employers, and does it differ by sector or by how they report? | R, dplyr, ggplot2 |
-| [Customer spending analysis](https://github.com/YOUR-USERNAME/customer-spending-analysis) | Do households with young children spend differently at a grocery store? | R, dplyr, lubridate |
-| [Statistical modelling in R](https://github.com/YOUR-USERNAME/statistical-modelling-r) | Regression and ANOVA to explain and compare outcomes across groups | R |
-| [Analytics Engineering projects](https://github.com/YOUR-USERNAME/analytics-engineering) | Python data projects from my MSc | Python, Jupyter |
+| [UK Gender Pay Gap, 2025 to 2026](https://github.com/yusuf-kadri/uk-gender-pay-gap-analysis) | How large is the gender pay gap across UK employers, and where in the pay structure does it come from? | R, dplyr, ggplot2 |
+| [Customer spending analysis](https://github.com/yusuf-kadri/customer-spending-analysis) | Do households with young children spend differently at a grocery store? | R, dplyr, lubridate |
 
 ### Beyond code
 
