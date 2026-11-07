@@ -17,7 +17,7 @@ I like clean data and a clear answer. This GitHub holds the analysis I do along 
 | Project | What it asks | Tools |
 |---|---|---|
 | [UK Gender Pay Gap, 2025 to 2026](https://github.com/yusuf-kadri/uk-gender-pay-gap-analysis) | How large is the gender pay gap across UK employers, and where in the pay structure does it come from? | R, dplyr, ggplot2 |
-| [Customer spending analysis](https://github.com/yusuf-kadri/customer-spending-analysis) | Do households with young children spend differently at a grocery store? | R, dplyr, lubridate |
+| [Customer spending analysis](https://github.com/yusuf-kadri/customer-spending-analysis) | Do customers with children spend less on wine, or is it their income? | R, t-tests, regression |
 
 ### Beyond code
 
